@@ -1,0 +1,17 @@
+{
+    "id": "2d90b125-d456-4214-9dfc-ca6e18a84d5d",
+    "version": "1.0.0",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Thành Nam Nguyễn",
+        "homepage": "https://github.com/namnguyenthanhwork/Rocket.Chat.App-Gemini",
+        "support": "https://github.com/namnguyenthanhwork/Rocket.Chat.App-Gemini/issues"
+    },
+    "name": "Gemini",
+    "nameSlug": "gemini",
+    "classFile": "GeminiApp.ts",
+    "description": "Gemini integration for Rocket.Chat.App",
+    "categories": ["search", "chatbot", "ai"],
+    "implements": []
+}

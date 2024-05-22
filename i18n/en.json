@@ -1,0 +1,12 @@
+{
+	"gemini_api_key_label": "Gemini API key",
+	"gemini_api_key_description": "Enter your Gemini API key. For more information, visit https://aistudio.google.com/app/apikey",
+	"gemini_api_key_placeholder": "Enter your Gemini API key...",
+	"gemini_model_label": "Gemini Model",
+	"gemini_model_description": "Select the Gemini model to use",
+	"gemini_command_description": "Question and Answer with Gemini",
+	"your_prompt": "your prompt (required)",
+	"gemini-1.0-pro": "Gemini 1.0 Pro",
+	"gemini-1.5-pro-latest": "Gemini 1.5 Pro Latest",
+	"gemini-1.5-flash-latest": "Gemini 1.5 Flash Latest"
+}
